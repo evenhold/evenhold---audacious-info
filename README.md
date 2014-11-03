@@ -22,9 +22,10 @@ Evenhold - audacious-info (Conky)
     2.- cd /home/YOURUSERNAME
     3.- mkdir .Conky 
     4.- copy folder "evenhold" > ".Conky"
-    5.- open Startup Applications
-    6.-  /home/YOURUSERNAME/.Conky/evenhold/start_conky.sh
-    7.- Reboot. Now, Conky evenhold is running
+    5.- open terminal: sudo chmod 777 -R /home/YOURUSERNAME/.Conky/evenhold
+    6.- open Startup Applications
+    7.-  /home/YOURUSERNAME/.Conky/evenhold/start_conky.sh
+    8.- Reboot. Now, Conky evenhold is running
 
 
 <b>Credit</b>
