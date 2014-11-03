@@ -28,7 +28,7 @@ evenhold - audacious-info (Conky)
 
 
 <b>Credit</b>
-------------------------------------------------------------------------
+
 
 
 You like this theme? I'd be glad to hear! Contact me on [Facebook](https://www.facebook.com/evenhold).
