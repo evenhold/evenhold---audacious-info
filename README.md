@@ -1,4 +1,4 @@
-evenhold - audacious-info (Conky)
+Evenhold - audacious-info (Conky)
 =========================
 
 
