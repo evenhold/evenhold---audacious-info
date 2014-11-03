@@ -3,7 +3,7 @@
 
 background yes
 use_xft yes
-#xftfont Bitstream Vera Sans Mono:size=9
+
 xftfont Larabiefont Free:size=12 
 xftalpha 0.2
 mail_spool $MAIL
@@ -27,12 +27,12 @@ double_buffer yes
 minimum_size 420 100
 draw_shades yes
 draw_outline yes
-draw_borders no #borde de la caja de informacion
+draw_borders no 
 draw_graph_borders yes
 stippled_borders 0
 border_width 0
 
-default_color 009FC3 #color del borde del cuadrado
+default_color 009FC3 
 color0 white
 color1 green
 color2 red
