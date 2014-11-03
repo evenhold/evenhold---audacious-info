@@ -11,7 +11,7 @@ evenhold - audacious-info (Conky)
 
 ==============
 
-Installation:
+<b>Installation:</b>
 
     Downlaod folder evenhold
 
@@ -27,7 +27,7 @@ Installation:
     7.- Reboot. Now, Conky evenhold is running
 
 
-Credit
+<b>Credit</b>
 ------------------------------------------------------------------------
 
 
