@@ -5,7 +5,7 @@ Evenhold - audacious-info (Conky)
 
 
 
-![audacious desktop](https://lh6.googleusercontent.com/0Me_JksGh3z38bleLmyGEs25J-cJRQuSovrchparO5YVocZorEJws2HFBnAN9FmIZyBNxixl1Ks=w1416-h683)
+![audacious desktop](https://lh4.googleusercontent.com/-RnQONGv0VVs/VFeg0waj08I/AAAAAAAAAis/IDU8Q0efS04/w1118-h699-no/evenhold%2B-%2Bdesktop%2B-%2Baudacious.png)
 
 
 
