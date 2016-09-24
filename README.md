@@ -5,7 +5,7 @@ Evenhold - Audacious (Conky)
 
 
 
-![audacious desktop](/home/evn/Pictures/Screenshot from 2016-09-23 20-32-04.png)
+![audacious desktop](https://dl.dropboxusercontent.com/u/37373051/github-images/evenhold-audacious.png)
 
 
 
