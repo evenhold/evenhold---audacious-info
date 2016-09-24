@@ -7,13 +7,9 @@ Evenhold - Audacious (Conky)
 
 ![audacious desktop](https://dl.dropboxusercontent.com/u/37373051/github-images/evenhold-audacious.png)
 
+<hr>
+## Installation:
 
-
-==============
-
-<b>Installation:</b>
-
-Downlaod folder evenhold
 
 
 1.- Install conky
@@ -23,16 +19,17 @@ $ sudo apt-get install conky
 ```bash
 $ cd /home/YOURUSERNAME
 $ mkdir .Conky
-```
-2.- copy folder "evenhold" > ".Conky"
-```bash
+$ cd .Conky
+$ git clone https://github.com/evenhold/evenhold-audacious.git
+$ mv evenhold-audacious/evenhold ./
+$ rm -rf evenhold-audacious
 $ sudo chmod 705 -R /home/YOURUSERNAME/.Conky/evenhold
 ```
-3.- open Startup Applications:
+2.- open Startup Applications:
 >Command:
    conky -c /home/YOURUSERNAME/.Conky/evenhold/audacious-info
 
-4.- Reboot. Now, Conky evenhold is running
+3.- Reboot. Now, Conky evenhold is running
 
 
 <b>Credit</b>
