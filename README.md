@@ -29,14 +29,8 @@ $ mkdir .Conky
 $ sudo chmod 705 -R /home/YOURUSERNAME/.Conky/evenhold
 ```
 3.- open Startup Applications:
-
-add:
-
-name: conky-audacious
-
-comand:
-
-conky -c /home/YOURUSERNAME/.Conky/evenhold/audacious-info
+>Comand:
+   conky -c /home/YOURUSERNAME/.Conky/evenhold/audacious-info
 
 4.- Reboot. Now, Conky evenhold is running
 
